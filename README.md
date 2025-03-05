@@ -1,26 +1,32 @@
-# 👋 Hi, I'm Asad Amjad (@asad-amjad) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F9AFA&center=true&vCenter=true&width=435&lines=React+%7C+MERN+Stack+Developer;Full-Stack+Developer;Building+High-Quality+Web+Apps)](https://git.io/typing-svg)
+# 👋 Hi, I'm Asad Amjad  
 
-🚀 **About Me**  
-I'm a passionate MERN Stack Developer with over 8 years of experience in building dynamic, responsive, and high-performance web applications. My expertise spans front-end development using React.js and backend solutions with Node.js, ensuring a seamless and efficient user experience.
+🚀 **Senior Full-Stack Developer | MERN Stack | Next.js | Scalable Web Solutions**  
 
-🌱 **Currently Exploring:**  
-- Advanced serverless architectures with AWS  
-- Performance optimization and scalability with Next.js  
-- Enhancing front-end user experiences with modern React libraries
+I’m a passionate Full-Stack Developer with **5+ years of experience**, specializing in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. I build high-performance, scalable web applications with **Next.js, JavaScript, and TypeScript**, ensuring seamless user experiences.  
 
-💻 **Tech Stack**  
-- **Frontend:** React.js, Redux, Tailwind CSS, Styled Components  
-- **Backend:** Node.js, Express, MongoDB  
-- **Tools & Platforms:** Git, Docker, AWS, Firebase
+## 🔥 Expertise  
+✅ **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, UI/UX Optimization  
+✅ **Backend:** Node.js, Express.js, REST & GraphQL APIs, Database Optimization  
+✅ **Cloud & Authentication:** AWS Amplify & Cognito (Frontend Integration), Firebase  
+✅ **Performance:** Code Optimization, Modular Design, Reusable Components  
 
-📫 **How to Reach Me**  
-- **Email:** [asad.amjad.pk@gmail.com](mailto:asad.amjad.pk@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/asad-amjad](https://www.linkedin.com/in/asad-amjad/)  
-- **GitHub:** [github.com/asad-amjad](https://github.com/asad-amjad)
+> *“We’re not designing pages, we’re designing systems of components.” — Stephen Hay*  
 
-![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asad-amjad&show_icons=true&theme=radical)
+## 🏆 Highlights  
+- 🔹 **Developed AI-powered web applications** using Next.js, React.js, and Tailwind CSS  
+- 🔹 Built an **AI-driven headshot platform**, automating workflows  
+- 🔹 Created the frontend for an **AI-based video search engine** with sentiment analysis  
+- 🔹 Integrated **Stripe payments** for secure transactions  
+- 🔹 Transformed Figma designs into high-performance **React components**  
+- 🔹 Optimized database queries for **better efficiency and scalability**  
 
-<!---
-asad-amjad/asad-amjad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+## 🚀 Services  
+- **Web Development** (Full-Stack, Frontend, Backend)  
+- **SaaS Development & Cloud Solutions**  
+- **API Integration & Optimization**  
+- **UI/UX Design & Performance Optimization**  
+
+## 📫 Connect with Me  
+📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+
+🚀 **Let’s build something amazing together!**  
