@@ -27,6 +27,6 @@ I’m a passionate Full-Stack Developer with **5+ years of experience**, special
 - **UI/UX Design & Performance Optimization**  
 
 ## 📫 Connect with Me  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email:** [asad.amjad.pk@gmail.com](mailto:asad.amjad.pk@gmail.com)  
 
 🚀 **Let’s build something amazing together!**  
